@@ -5,8 +5,8 @@
   <a href="https://www.linkedin.com/in/sreerag-pt-96a0b4259">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/sreerag-pt-96a0b4259">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bmenz&psig=AOvVaw0d3fqmdIlLojw32E5b0XuR&ust=1671193279777000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC-gqHO-_sCFQAAAAAdAAAAABAE" alt="Insta Badge"/>
+  <a href="https://www.instagram.com/sreeragsurendran_/">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRecouse%2FIPS-Instagram-Login-Handler%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw1acsWaD7od8kZIW4Qz1T-V&ust=1671193563936000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKi2yqfP-_sCFQAAAAAdAAAAABAE" alt="Insta Badge"/>
   </a>
   
   <a href="https://twitter.com/srgsreerag02">
