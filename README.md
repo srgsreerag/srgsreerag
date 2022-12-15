@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.instagram.com/sreeragsurendran_/">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FRecouse%2FIPS-Instagram-Login-Handler%2Fblob%2Fmaster%2FREADME.md&psig=AOvVaw1acsWaD7od8kZIW4Qz1T-V&ust=1671193563936000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCKi2yqfP-_sCFQAAAAAdAAAAABAE" alt="Insta Badge"/>
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F648%2F943%2Fpng-transparent-instagram-logo-logo-instagram-computer-icons-camera-instagram-logo-text-trademark-magenta.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bmenz&tbnid=E_CGivxdfE8UaM&vet=12ahUKEwjR0u_oz_v7AhU-gGMGHYqxC-0QMygFegUIARDnAQ..i&docid=qmtOfDxoXq6H0M&w=920&h=614&q=instagram%20png&ved=2ahUKEwjR0u_oz_v7AhU-gGMGHYqxC-0QMygFegUIARDnAQ" alt="Insta Badge"/>
   </a>
   
   <a href="https://twitter.com/srgsreerag02">
