@@ -1,16 +1,23 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sreerag-pt-96a0b4259">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sreerag-pt-96a0b4259">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-bmenz&psig=AOvVaw0d3fqmdIlLojw32E5b0XuR&ust=1671193279777000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKC-gqHO-_sCFQAAAAAdAAAAABAE" alt="Insta Badge"/>
+  </a>
+  
+  <a href="https://twitter.com/srgsreerag02">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=your-github-srgsreerag&style=flat-square&color=blue" alt=""/>
+</div>
+---
 
-<!--
-**srgsreerag/srgsreerag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :woman_technologist: About Me :
+    |---->Student@tkmce
+    |---->Developer
+    |---->Interested_in_data_analyst
+    |---->mailme@amalendumanoj@gmail.com
