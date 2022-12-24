@@ -19,5 +19,5 @@
 ### :woman_technologist: About Me :
     |---->Student@tkmce
     |---->Developer
-    |---->Interested_in_data_analyst
-    |---->mailme@amalendumanoj@gmail.com
+    |---->Interested_in_web_development
+    |---->mail_me_sreesreeragsurendran@gmail.com
