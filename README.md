@@ -16,7 +16,7 @@
 </div>
 ---
 
-### :woman_technologist: About Me :
+ About Me :
     |---->Student@tkmce
     |---->Developer
     |---->Interested_in_web_development
